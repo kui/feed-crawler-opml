@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>stub title</title>
+  </head>
+  <body>
+    <outline text="1st feed" title="1st feed" xmlUrl="http://bar.com/feed" htmlUrl="http://bar.com" />
+    <outline text="news" title="news">
+      <outline text="2nd feed" title="2nd feed" xmlUrl="http://foo.com/feed" htmlUrl="http://foo.com" />
+      <outline text="it" title="it">
+        <outline text="3rd feed" title="3rd feed" xmlUrl="https://hoge.com/feed" htmlUrl="https://hoge.com" />
+      </outline>
+    </outline>
+  </body>
+</opml>
