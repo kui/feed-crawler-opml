@@ -26,11 +26,13 @@
       <groupId>com.googlecode.jmockit</groupId>
       <artifactId>jmockit</artifactId>
       <version>1.6</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
   	  <groupId>jp.k_ui.feedcrawler</groupId>
